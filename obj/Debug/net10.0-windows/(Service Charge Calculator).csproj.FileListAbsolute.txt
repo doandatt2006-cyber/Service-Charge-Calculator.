@@ -1,0 +1,16 @@
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\bin\Debug\net10.0-windows\(Service Charge Calculator).exe
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\bin\Debug\net10.0-windows\(Service Charge Calculator).deps.json
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\bin\Debug\net10.0-windows\(Service Charge Calculator).runtimeconfig.json
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\bin\Debug\net10.0-windows\(Service Charge Calculator).dll
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\bin\Debug\net10.0-windows\(Service Charge Calculator).pdb
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\_Service_Charge_Calculator_.Form1.resources
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).csproj.GenerateResource.cache
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).AssemblyInfo.cs
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).dll
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\refint\(Service Charge Calculator).dll
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).pdb
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\(Service Charge Calculator).genruntimeconfig.cache
+C:\Users\AD\source\repos\(Service Charge Calculator)\(Service Charge Calculator)\obj\Debug\net10.0-windows\ref\(Service Charge Calculator).dll
