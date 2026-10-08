@@ -15,7 +15,7 @@
 ![Giao diện chính](./main_ui.png)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/execution_result-1.png)
+![Thực thi chức năng](./execution_result-1.png)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshots/validation_error-1.png)
+![Kiểm tra lỗi](./validation_error-1.png)
