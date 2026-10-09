@@ -11,6 +11,8 @@
 
 ## KẾT QUẢ THỰC HÀNH
 
+### Bai 1
+
 ### 1. Ảnh màn hình Giao diện chính
 ![Giao diện chính](./ảnh/main_ui.png)
 
@@ -19,3 +21,16 @@
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 ![Kiểm tra lỗi](./ảnh/validation_error.png)
+
+### Bai 2
+
+### 1. Ảnh màn hình Giao diện chính
+![Giao diện chính](./ảnh/bai2.png)
+
+### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng](./ảnh/bai2kq.png)
+
+### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+![Kiểm tra lỗi](./ảnh/bai2loi.png)
+
+
