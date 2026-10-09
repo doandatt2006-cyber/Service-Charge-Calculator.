@@ -1,0 +1,16 @@
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.csproj.GenerateResource.cache
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.AssemblyInfo.cs
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.Form1.resources
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\bin\Debug\net10.0-windows\ITSupportTicketForm.exe
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\bin\Debug\net10.0-windows\ITSupportTicketForm.deps.json
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\bin\Debug\net10.0-windows\ITSupportTicketForm.runtimeconfig.json
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\bin\Debug\net10.0-windows\ITSupportTicketForm.dll
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\bin\Debug\net10.0-windows\ITSupportTicketForm.pdb
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.dll
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\refint\ITSupportTicketForm.dll
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.pdb
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ITSupportTicketForm.genruntimeconfig.cache
+C:\Users\AD\source\repos\ITSupportTicketForm\ITSupportTicketForm\obj\Debug\net10.0-windows\ref\ITSupportTicketForm.dll
