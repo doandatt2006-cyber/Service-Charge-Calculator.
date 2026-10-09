@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("(Service Charge Calculator)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6efd0cd0231cb610bce31db3711a1722303db156")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3e42c2ba6631747c058621029f4404288dbf0e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("(Service Charge Calculator)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("(Service Charge Calculator)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
